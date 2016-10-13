@@ -1,0 +1,1 @@
+<a href='<%=request.getAttribute("authUrl") %>'>Sign in with Twitter</a>
